@@ -69,6 +69,9 @@ $ns at 0.0 "$n1 label Receiver"
 $ns run
  
 # OUTPUT
+![WhatsApp Image 2025-11-18 at 17 41 46_69420bfc](https://github.com/user-attachments/assets/ab101473-0133-4b07-93ac-296c9b6d0c1c)
+
+
 
 
 
